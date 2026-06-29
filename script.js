@@ -1,6 +1,22 @@
 const images=[
-'images/foto1.jpg',
-'images/foto2.jpg',
+'images/amor.jpg',
+'images/anel.jpg',
+'images/cabides.jpg',
+'images/casal.jpg',
+ 'images/molly2.jpg',
+'images/casanova.jpg',
+'images/comidas.jpg',
+'images/compras.jpg',
+'images/casal2.jpg',
+'images/couple.jpg',
+'images/library.jpg',
+'images/molly.jpg',
+'images/morning.jpg',
+'images/quartogamers.jpg',
+'images/roupas.jpg',
+'images/viagens.jpg',
+'images/mollyeu.jpg',
+'images/quartos.jpg',
 'images/foto3.jpg'
 ];
 let i=0;
