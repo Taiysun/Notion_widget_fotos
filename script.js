@@ -1,7 +1,7 @@
 const images=[
 'images/amor.jpg',
-'images/molly.jpg',
 'images/anel.jpg',
+'images/molly.jpg',
 'images/cabides.jpg',
 'images/casal.jpg',
  'images/molly2.jpg',
