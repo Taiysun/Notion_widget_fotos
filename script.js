@@ -1,5 +1,6 @@
 const images=[
 'images/amor.jpg',
+'images/molly.jpg',
 'images/anel.jpg',
 'images/cabides.jpg',
 'images/casal.jpg',
@@ -10,7 +11,6 @@ const images=[
 'images/casal2.jpg',
 'images/couple.jpg',
 'images/library.jpg',
-'images/molly.jpg',
 'images/morning.jpg',
 'images/quartogamers.jpg',
 'images/roupas.jpg',
