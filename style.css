@@ -1,4 +1,4 @@
-body{margin:0;display:flex;justify-content:center;align-items:center;background:#fff}
+body{margin:0;display:flex;justify-content:center;align-items:center;background:#f9f8f7}
 .gallery{width:min(700px,100%);aspect-ratio:700/295;display:flex;align-items:center;gap:10px}
 .slider{flex:1;display:grid;grid-template-columns:1fr 1.6fr 1fr;align-items:center;overflow:hidden}
 img{width:100%;aspect-ratio:1;border-radius:2px;object-fit:cover;transition:.35s}
