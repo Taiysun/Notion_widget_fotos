@@ -5,7 +5,7 @@ const images=[
 'images/casal.jpg',
  'images/molly2.jpg',
 'images/casanova.jpg',
-'images/comidas.jpg',
+'images/comidas.jpeg',
 'images/compras.jpg',
 'images/casal2.jpg',
 'images/couple.jpg',
@@ -16,8 +16,8 @@ const images=[
 'images/roupas.jpg',
 'images/viagens.jpg',
 'images/mollyeu.jpg',
-'images/quartos.jpg',
-'images/foto3.jpg'
+'images/quartos.jpg'
+ 
 ];
 let i=0;
 const left=document.querySelector('.left');
